@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/backtest-charting-using-tradex-and-custom-overlays-to-show-pandl-and-allocation-over-time/index/"}
 ---
 
+[[Excalidraw/Drawing 2024-09-03 15.47.50.excalidraw\|Drawing 2024-09-03 15.47.50.excalidraw]]
+
 [[Excalidraw/Drawing 2024-09-03 15.42.22.excalidraw\|Drawing 2024-09-03 15.42.22.excalidraw]]
 
 
