@@ -5,10 +5,10 @@
 **CTXs:**
 @@Whatsapp
 
-**README:**
+**<u>README</u>:**
 @Harbie has experienced an issue where deel.com is holding his $50k. They told him he needs to explain how he calculated his bonus, and prove, with documentation, the work that he did for that $50k payment.
 
-**What I need to do:**
+**<u>What I need to do</u>:**
 @Harbie wants me to email them, explaining that it was a retroactive payment for salary, plus a small bonus for his services. In case they also request I provide similar explanations/documentation then I will need to explain something similar.
 
 <u>Example</u>: $7500 extra for the past 6 months in retroactive salary, plus a bonus totalling $50k.
