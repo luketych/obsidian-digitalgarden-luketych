@@ -11,7 +11,9 @@
 **What I need to do:**
 @Harbie wants me to email them, explaining that it was a retroactive payment for salary, plus a small bonus for his services. In case they also request I provide similar explanations/documentation then I will need to explain something similar.
 
-Example: $7500 extra for the past 6 months in retroactive salary, plus a bonus totalling $50k.
+<u>Example</u>: $7500 extra for the past 6 months in retroactive salary, plus a bonus totalling $50k.
+
+..
 
 
 
