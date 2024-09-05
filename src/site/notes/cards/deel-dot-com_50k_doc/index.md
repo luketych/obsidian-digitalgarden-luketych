@@ -13,8 +13,6 @@
 
 <u>Example</u>: $7500 extra for the past 6 months in retroactive salary, plus a bonus totalling $50k.
 
-..
-
 
 
 
