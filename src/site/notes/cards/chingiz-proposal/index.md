@@ -4,9 +4,10 @@
 
 
 
-What I have built so far:
+**What I have built so far:**
 
-APIs for the following:
+
+<u>APIs for the following<u>:
 
 	- live price data
 	- historical price data
@@ -16,7 +17,7 @@ APIs for the following:
 	- tickerSymbols, company information, including sector, similar companies
 	- proxies
 
-Modules:
+<u>Modules</u>:
 	- logging
 	- environment and configuration variables
 	- utilities
@@ -25,8 +26,9 @@ Modules:
 	- interactive brokers writer
 
 
-What I need help with:
+<b><u>What I need help with<u>:<b>
 	- central logging
 	- backtesting via CLI, dashboard
 	- order managements via CLI, dashboard
 	- charting
+
