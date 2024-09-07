@@ -26,7 +26,7 @@
 	- interactive brokers writer
 
 
-<b><u>What I need help with<u>:<b>
+**<u>What I need help with<u>:**
 	- central logging
 	- backtesting via CLI, dashboard
 	- order managements via CLI, dashboard
