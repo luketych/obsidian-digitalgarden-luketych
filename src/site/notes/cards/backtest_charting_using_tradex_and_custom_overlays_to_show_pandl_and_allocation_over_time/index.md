@@ -5,7 +5,24 @@
 obsidian://open?vault=obsidian-digital-garden&file=cards%2Fbacktest_charting_using_tradex_and_custom_overlays_to_show_pandl_and_allocation_over_time%2Findex
 
 
-<div><span class="h">Hello</span><span class="w">world</span></div> <style> .h { color: red; } .w { color: green; } </style>
+```run-javascript
+console.log("The title of this note is: ", @title)
+
+@show("https://upload.wikimedia.org/wikipedia/commons/d/de/TestScreen_square.svg", 10%, 10%, "center")
+
+@html("<h1>HTML Caption</h1>")
+
+```
+
+
+
+```run-python
+print("The title of this note is: ", @title)
+
+@show("https://upload.wikimedia.org/wikipedia/commons/d/de/TestScreen_square.svg", 10%, 10%, "center")
+@html("<h1>HTML Caption</h1>")
+
+```
 
 
 
