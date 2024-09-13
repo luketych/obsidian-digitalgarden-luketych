@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/website-flexible-schemas/index/","created":"2024-09-13T10:11:37.299-07:00","updated":"2024-09-13T13:20:18.604-07:00"}
+{"dg-publish":true,"permalink":"/cards/website-flexible-schemas/index/","created":"2024-09-13T10:11:37.299-07:00","updated":"2024-09-13T13:23:30.492-07:00"}
 ---
 
 [goto-obsidian](obsidian://open?vault=obsidian-digital-garden&file=cards%2Fwebsite-flexible-schemas%2Findex)
@@ -21,6 +21,5 @@ Video:
 
 Audio:
 ![[i-need-your-monsters-008.mp3]]
-
 Image:
 ![Screenshot_2024-02-11-19-23-52-67_be80aec1db9a2b53c9d399db0c602181.jpg](/img/user/cards/website-flexible-schemas/Screenshot_2024-02-11-19-23-52-67_be80aec1db9a2b53c9d399db0c602181.jpg)
