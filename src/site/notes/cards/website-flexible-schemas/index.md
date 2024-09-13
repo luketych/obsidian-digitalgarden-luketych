@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/website-flexible-schemas/index/"}
+{"dg-publish":true,"permalink":"/cards/website-flexible-schemas/index/","created":"2024-09-13T10:11:37.299-07:00","updated":"2024-09-13T13:20:18.604-07:00"}
 ---
 
 [goto-obsidian](obsidian://open?vault=obsidian-digital-garden&file=cards%2Fwebsite-flexible-schemas%2Findex)
@@ -16,6 +16,11 @@ https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/
 ![[Flexible Schemas Are The Mindkiller — Ludicity.pdf]]
 
 
+Video:
 ![[Screen Recording 2024-01-18 at 3.29.36 PM.mov]]
 
-![i-need-your-monsters-008.mp3](/img/user/cards/website-flexible-schemas/i-need-your-monsters-008.mp3)
+Audio:
+![[i-need-your-monsters-008.mp3]]
+
+Image:
+![Screenshot_2024-02-11-19-23-52-67_be80aec1db9a2b53c9d399db0c602181.jpg](/img/user/cards/website-flexible-schemas/Screenshot_2024-02-11-19-23-52-67_be80aec1db9a2b53c9d399db0c602181.jpg)
