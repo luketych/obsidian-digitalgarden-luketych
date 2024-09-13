@@ -18,4 +18,4 @@ https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/
 
 ![[Screen Recording 2024-01-18 at 3.29.36 PM.mov]]
 
-![[i-need-your-monsters-008.mp3]]
+![i-need-your-monsters-008.mp3](/img/user/cards/website-flexible-schemas/i-need-your-monsters-008.mp3)
