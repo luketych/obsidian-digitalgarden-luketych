@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/chingiz-proposal/index/"}
+{"dg-publish":true,"permalink":"/cards/chingiz-proposal/index/","created":"2024-09-07T15:55:05.787-07:00","updated":"2024-09-11T15:53:19.651-07:00"}
 ---
 
 

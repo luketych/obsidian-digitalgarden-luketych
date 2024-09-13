@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/digital-garden-comment-section/index2/"}
+{"dg-publish":true,"permalink":"/cards/digital-garden-comment-section/index2/","created":"2024-09-07T16:44:04.888-07:00","updated":"2024-09-08T00:13:51.875-07:00"}
 ---
 
 

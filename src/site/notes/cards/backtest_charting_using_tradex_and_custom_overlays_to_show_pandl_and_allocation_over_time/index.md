@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/backtest-charting-using-tradex-and-custom-overlays-to-show-pandl-and-allocation-over-time/index/"}
+{"dg-publish":true,"permalink":"/cards/backtest-charting-using-tradex-and-custom-overlays-to-show-pandl-and-allocation-over-time/index/","created":"2024-09-03T15:09:59.190-07:00","updated":"2024-09-11T18:38:46.386-07:00"}
 ---
 
 obsidian://open?vault=obsidian-digital-garden&file=cards%2Fbacktest_charting_using_tradex_and_custom_overlays_to_show_pandl_and_allocation_over_time%2Findex

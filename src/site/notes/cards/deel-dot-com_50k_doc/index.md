@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deel-dot-com-50k-doc/index/"}
+{"dg-publish":true,"permalink":"/cards/deel-dot-com-50k-doc/index/","created":"2024-09-05T15:52:16.367-07:00","updated":"2024-09-08T15:06:55.751-07:00"}
 ---
 
 **CTXs:**
