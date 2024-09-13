@@ -9,7 +9,7 @@
 **What I have built so far:**
 
 
-<u>APIs for the following<u>:
+<u>APIs for the following</u>:
 	- live price & volume data
 	- historical price & volume data
 	- live trading event data
@@ -33,7 +33,7 @@ The vision for the backtesting is to have a rapid CLI, with a frontend dashboard
 Interactive Brokers API is extremely finicky. I have split the code for it into two pieces, and have isolated it as much as possible from the main codebase. My codebase will simply read statuses from interactive brokers, in order to determine whether an order has filled, at what price, etc, etc, and update the order database with this information. All trades will be created internally, and then the ibWriter will send this information to interactive brokers gateway, creating the order on the interactive brokers side. 
 
 
-**<u>What I need help with<u>:**
+**<u>What I need help with</u>:**
 	1. **process management**
 		• using bash, pm2, ansible, or alternatives. This project is 90% nodejs, but python where it is required. In order to manage the complexities better process management will be needed in order to coordinate the different modules and handle errors.
 	2. **central logging**
