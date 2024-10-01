@@ -3,6 +3,8 @@
 ---
 
 
+obsidian://open?vault=obsidian-digital-garden&file=cards%2Ftick_events%2Findex
 
-Hello world 
+
+
 
