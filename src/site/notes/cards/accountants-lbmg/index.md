@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/accountants-lbmg/index/","created":"2024-10-08T11:27:20.993-07:00","updated":"2024-10-08T11:29:46.216-07:00"}
+{"dg-publish":true,"permalink":"/cards/accountants-lbmg/index/","created":"2024-10-08T11:27:20.993-07:00","updated":"2024-10-08T11:30:13.274-07:00"}
 ---
 
 Hello
@@ -10,8 +10,14 @@ https://ktr.cards/accountants-lbmg
 
 
 
-⍜ Accountants: I think talk to the accountant Brendan is recommending, and also my @Dad's accountant. Talking to my Dad's accountant will offer us the opportunity to do good cop - bad cop with her. For example, if she likes me then she will treat me Dad better. But I also want to have the opinion of the accountant than @Brendan knows since he might be more familiar with this stuff.
+I think talk to the accountant Brendan is recommending, and also my @Dad's accountant. Talking to my Dad's accountant will offer us the opportunity to do good cop - bad cop with her. 
+
+For example, if she likes me then she will treat me Dad better. But I also want to have the opinion of the accountant than @Brendan knows since he might be more familiar with this stuff.
   □-> Should I let @Brendan introduce me to the accountant? It should be a very brief intro and not a money grab. So yes, I can just tell him to go ahead and introduce me. I can also get Dad to introduce me to his accountant as well.
+ 
+ 
+ 
+ 
  => Start keeping a list of questions to ask the accountant. This is something I can store in my digital garden and reference on a card. 
     Some example questions to get started:
       - What are my options for minimizing tax? 
@@ -38,3 +44,4 @@ https://ktr.cards/accountants-lbmg
         - "How would custom indexing be treated differently in terms of taxes if I manage it from a non-Canadian company versus from a Canadian-based company?"
 	- "How can I structure my companies and personal investments to minimize capital gains tax upon selling my company shares or exiting the business? Are there specific exit strategies I should plan for?"
         - "What are the advantages of using RRSPs or TFSAs to shield certain investments from tax, even if I am investing heavily through my corporations?"
+
