@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/accountants-lbmg/index/","created":"2024-10-08T11:27:20.993-07:00","updated":"2024-10-08T16:57:40.582-07:00"}
+{"dg-publish":true,"permalink":"/cards/accountants-lbmg/index/","created":"2024-10-08T11:27:20.993-07:00","updated":"2024-10-08T16:58:33.064-07:00"}
 ---
 
 https://ktr.cards/accountants-lbmg
@@ -18,6 +18,6 @@ Talking to my Dad's accountant will offer us the opportunity to do good cop - ba
 
  [[cards/accountants-lbmg/questions_to_ask\|questions_to_ask]]
  
- 
+ [[cards/accountants-lbmg/home_office\|home_office]]
  
  
