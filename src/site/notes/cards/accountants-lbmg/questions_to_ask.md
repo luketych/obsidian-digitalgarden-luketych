@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/accountants-lbmg/questions-to-ask/","created":"2024-10-08T16:57:24.510-07:00","updated":"2024-10-08T16:57:53.587-07:00"}
+{"dg-publish":true,"permalink":"/cards/accountants-lbmg/questions-to-ask/","created":"2024-10-08T16:57:24.510-07:00","updated":"2024-10-16T12:31:02.729-07:00"}
 ---
 
 
@@ -14,6 +14,7 @@
           - What if CorpA loads $10,000 to CorpB and CorpB invests this money and loses it? Ie in stocks? Ie investing in another company? ie via business expenses: laptops, office space, etc.
       - What if I started an investment company in a country where it was easier than Canada?
         - Then what I would do is use Interactive Brokers custom indexing to invest in stocks, which would then allow me to apply my gains as capital gains rather than active trading. Would this work?
+- 
 
     ChatGPT Questions:
         - "Should I explore strategies like transfer pricing for moving money or assets between my Canadian and Delaware companies? What would be the best way to do this without triggering tax complications?"
@@ -25,8 +26,13 @@
 	- "Could I defer Canadian taxes by leaving investment income in a foreign company and only withdrawing it as dividends later?"
         - "If one of my companies (e.g., CorpB) takes a loss on an investment (e.g., in stocks or another company), how can I deduct this loss? Can the loss be carried forward or used to offset income in other years?"
 	- "What are the rules for deducting business expenses in Canada vs. the U.S. when it comes to things like office space, equipment, or other capital investments?"
-        - "If I set up an investment fund in a low-tax country and manage assets through Interactive Brokers, could this allow me to take advantage of global tax treaties or lower tax rates on capital gains?"
+    - "If I set up an investment fund in a low-tax country and manage assets through Interactive Brokers, could this allow me to take advantage of global tax treaties or lower tax rates on capital gains?"
         - "How would custom indexing be treated differently in terms of taxes if I manage it from a non-Canadian company versus from a Canadian-based company?"
 	- "How can I structure my companies and personal investments to minimize capital gains tax upon selling my company shares or exiting the business? Are there specific exit strategies I should plan for?"
         - "What are the advantages of using RRSPs or TFSAs to shield certain investments from tax, even if I am investing heavily through my corporations?"
 
+
+
+Scenarios:
+    Objective: write off portion of apartment as office space.
+	    Could I set up a new corp. My BC corp pays it every year the exact amount of my office space expenses. So this new corp would have $0 in profits.
