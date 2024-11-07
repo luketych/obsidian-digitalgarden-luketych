@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/scm-clavicle/index/","created":"2024-10-20T17:13:30.527-07:00","updated":"2024-10-20T17:14:30.470-07:00"}
+{"dg-publish":true,"permalink":"/cards/scm-clavicle/index/","created":"2024-10-20T17:13:30.527-07:00","updated":"2024-10-20T17:15:14.097-07:00"}
 ---
 
 
